@@ -1,0 +1,5 @@
+# args.yml
+seed: 1
+data_type: 'dili'
+num_epochs: 200
+num_concepts: 40
