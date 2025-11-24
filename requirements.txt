@@ -5,3 +5,4 @@ openai==2.8.1
 pandas==2.3.3
 numpy==1.26.4
 dotenv==0.9.9
+transformers==4.57.1
