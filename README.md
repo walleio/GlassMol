@@ -12,7 +12,8 @@ python data/get_data.py <dataset>
   - these can be any of 'dili', 'lipo', 'bbbp', 'avail', 'solubility', 'caco', 'hia_hou', 'pgp', 'ppbr', 'vdss', 'cyp2c9', 'cyp2d6', 'cyp3a4', 'cyp2c9_substrate', 'cyp2d6_substrate', 'cyp3a4_substrate', 'half_life', 'ld50', 'herg', 'ames'
 
 Also, before training, if the GPT selector is desired, set your API key:
-  ```export OPENAI_API_KEY=sk-
+```
+export OPENAI_API_KEY=sk-
 ```
 
 ### Scripts
