@@ -13,7 +13,7 @@ python data/get_data.py <dataset>
 
 Also, before training, if the GPT selector is desired, set your API key:
 ```
-export OPENAI_API_KEY=sk-
+export OPENAI_API_KEY=<your-api-key>
 ```
 
 ### Scripts
